@@ -1,32 +1,14 @@
 # **<u>mccola_001的小站</u>**
 
-------
-
-# 我的世界启动器下载
-
-## pcl2
-
-https://afdian.com/a/LTCat
-
-## hmcl
-
-https://hmcl.huangyuhui.net/
-
-## java
-
-https://www.java.com/zh-CN/
-
-
-
-------
-
-
-
 # python
 
 代码也只会一点点
 
 ## 编辑器
+
+**python**
+
+ https://www.python.org/
 
 **VScode**
 
